@@ -1,2 +1,0 @@
-# Starnight
-Stady project
